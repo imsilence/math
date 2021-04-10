@@ -1,4 +1,4 @@
-package main
+package math
 
 const PI float32 = 3.1416926
 
